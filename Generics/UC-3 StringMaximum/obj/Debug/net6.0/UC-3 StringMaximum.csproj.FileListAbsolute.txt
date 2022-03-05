@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\bin\Debug\net6.0\UC-3 StringMaximum.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\bin\Debug\net6.0\UC-3 StringMaximum.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\bin\Debug\net6.0\UC-3 StringMaximum.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\bin\Debug\net6.0\UC-3 StringMaximum.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\bin\Debug\net6.0\UC-3 StringMaximum.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\obj\Debug\net6.0\UC-3 StringMaximum.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\obj\Debug\net6.0\UC-3 StringMaximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\obj\Debug\net6.0\UC-3 StringMaximum.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\obj\Debug\net6.0\UC-3 StringMaximum.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\obj\Debug\net6.0\UC-3 StringMaximum.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\obj\Debug\net6.0\UC-3 StringMaximum.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\obj\Debug\net6.0\refint\UC-3 StringMaximum.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\obj\Debug\net6.0\UC-3 StringMaximum.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\obj\Debug\net6.0\UC-3 StringMaximum.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\UC-3 StringMaximum\obj\Debug\net6.0\ref\UC-3 StringMaximum.dll

@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\bin\Debug\net6.0\GenericsRefactor1.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\bin\Debug\net6.0\GenericsRefactor1.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\bin\Debug\net6.0\GenericsRefactor1.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\bin\Debug\net6.0\GenericsRefactor1.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\bin\Debug\net6.0\GenericsRefactor1.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\obj\Debug\net6.0\GenericsRefactor1.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\obj\Debug\net6.0\GenericsRefactor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\obj\Debug\net6.0\GenericsRefactor1.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\obj\Debug\net6.0\GenericsRefactor1.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\obj\Debug\net6.0\GenericsRefactor1.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\obj\Debug\net6.0\GenericsRefactor1.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\obj\Debug\net6.0\refint\GenericsRefactor1.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\obj\Debug\net6.0\GenericsRefactor1.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\obj\Debug\net6.0\GenericsRefactor1.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-13\GenericsRefactor1\obj\Debug\net6.0\ref\GenericsRefactor1.dll
